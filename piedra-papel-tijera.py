@@ -33,3 +33,4 @@ if(contador_jugador1 == 3):
     print(nombre1 + " ganaste el juego")
 else:
     print(nombre2 + " ganaste el juego")
+    
